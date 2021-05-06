@@ -1,6 +1,8 @@
-# download-link
+# download-link Generate One Time Temporary Link
 
 # sistema generador de link con temporizador. 
+
+# Generar un enlace temporal único con token
 
 <h2>Descarga Link "PHP"</h2>
 
@@ -13,7 +15,7 @@
 
 <p><h2 id="permitir-aplicaciones-menos-seguras-">Puede utilizar este script
 
-</h2> Puede Encontrar el Formulario Aqu&#237;  exclusivo:</p>
+</h2> Puede Generar un enlace único exclusivo con token:</p>
 
 <p style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ipxxx999/download-link/main/12345.png" 

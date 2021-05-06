@@ -9,9 +9,9 @@
 <p><strong>Importante</strong>: </p>
 
 </blockquote>
-<p>Utilice <em>El formulario</em>, para tu servicio.</p>
+<p>Utilice <em>El Script</em>, para tus servicios.</p>
 
-<p><h2 id="permitir-aplicaciones-menos-seguras-">Puede utilizar este scrip
+<p><h2 id="permitir-aplicaciones-menos-seguras-">Puede utilizar este script
 
 </h2> Puede Encontrar el Formulario Aqu&#237;  exclusivo:</p>
 

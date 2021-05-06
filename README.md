@@ -17,7 +17,7 @@
 
 <p style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ipxxx999/download-link/main/12345.png" 
-alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="447" height="648" />
+alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="470" height="42" />
 </p>
 <p>Cualquier duda, d&#233;jame un email aqu&#237; o escribe a: Tutovideo2000@gmail.com</p>
 
